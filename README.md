@@ -1,4 +1,6 @@
-Hey everyone 
-this is a music player app 
-this allows to listen your fav songs 
-this has a queue facility like manymusic listening apps
+![backward](https://github.com/Manogna2811/musicplayer-/assets/143961048/5e243926-fba2-4f4f-bffe-52fe7e2e40ee)
+![play](https://github.com/Manogna2811/musicplayer-/assets/143961048/a84c68dc-7302-43aa-8381-fc315e26646e)
+![stop_play_icon](https://github.com/Manogna2811/musicplayer-/assets/143961048/96422a55-5228-4606-879f-9b7f8d98a997)
+![forward](https://github.com/Manogna2811/musicplayer-/assets/143961048/ec384bb7-7526-4ede-b5d5-339087c164e2)
+![pause](https://github.com/Manogna2811/musicplayer-/assets/143961048/09b32ace-824f-4502-945b-c9f3116a819a)
+https://github.com/Manogna2811/musicplayer-/assets/143961048/9c0e3f0b-1f86-4d37-8bfc-44bf2f09815e)
